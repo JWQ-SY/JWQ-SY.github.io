@@ -17,12 +17,12 @@ sidebar-avatar: img/hanbi.png      # use absolute URL, seeing it's used in both 
 
 
 # SNS settings
-RSS: false
-# weibo_username:     qiubaiying
+RSS: false 
+weibo_username:     5795209674
 #zhihu_username:     qiubaiying
-#github_username:    qiubaiying
+#github_username:    jwq-sy
 #facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+jianshu_username:   30e17d8b7a10
 #twitter_username:   qiubaiying
 
 
@@ -85,7 +85,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
-service-worker: true
+service-worker: true 
 
 
 
@@ -95,8 +95,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BYY",
-        href: "http://www.jianshu.com/u/"
+        title: "简书·BY",
+        href: "http://www.jianshu.com/u/30e17d8b7a10"
     },{
         title: "Apple",
         href: "https://apple.com"
